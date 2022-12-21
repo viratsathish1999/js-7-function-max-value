@@ -1,8 +1,8 @@
 
 
    var minimum,value;
-value=[10,20,30,40,50,60]
-minimum=0
+value=[10,20,30,40,50,60,-10,-20]
+minimum=value[0]
  
 value.forEach(function(maxi){
     if(minimum<maxi){
